@@ -6,6 +6,8 @@
 - 🔭 *À procura do primeiro estágio*
 - 🚀 *Na infinita jornada pela evolução*
 
+<img src="https://1.bp.blogspot.com/-dv6FrisKUFM/V13zzBlKoKI/AAAAAAAASh4/ijPEbpstwYksp3RoBVTYrorOc29VAQCgACLcB/s1600/BANNER_POST.jpg" width="100%" />
+
 ## 📝 Estudando...
 <div >
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="60">
