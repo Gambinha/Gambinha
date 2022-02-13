@@ -31,4 +31,7 @@
   <a href="mailto:fernandogamba19@gmail.com" target="_blank" ><img width="100" height="26" src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a> 
   <a href="https://www.linkedin.com/in/fernando-gamba-5077b917b/" target="_blank"><img width="100" height="26" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+ 
+## 🛸 Commits
+![Snake animation](https://github.com/Gambinha/Gambinha/blob/output/github-contribution-grid-snake.svg)
   
