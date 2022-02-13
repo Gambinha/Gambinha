@@ -22,6 +22,10 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gambinha&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Gambinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
+ 
+## 🛸 Commits
+ 
+![Snake animation](https://github.com/Gambinha/Gambinha/blob/output/github-contribution-grid-snake.svg)
   
 ## ⚡ Outras redes
   
@@ -32,6 +36,4 @@
   <a href="https://www.linkedin.com/in/fernando-gamba-5077b917b/" target="_blank"><img width="100" height="26" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
  
-## 🛸 Commits
-![Snake animation](https://github.com/Gambinha/Gambinha/blob/output/github-contribution-grid-snake.svg)
   
