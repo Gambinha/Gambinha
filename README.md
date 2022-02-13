@@ -1,12 +1,12 @@
-## 🧒🏽 Eaií, beleza? Eu me chamo Fernando Gamba
+## 🧒🏽 Eaií, beleza? Eu me chamo Fernando Gamba [I`m Fernando Gamba]
 
-- 🌍 *Tenho 18 anos e moro no Rio Grande do Sul*
-- 📕 *Curso Ciência da Computação na Universidade UniRitter - Campus Canoas* 
-- 🌱 *Apaixonado por NodeJS*
-- 🔭 *À procura do primeiro estágio*
-- 🚀 *Na infinita jornada pela evolução*
+- 🌍 *Tenho 18 anos e moro no Rio Grande do Sul* *[I`m 18 years old and I live in Brazil]*
+- 📕 *Curso Ciência da Computação na Universidade UniRitter Campus Canoas* *[Studying Computer Science]*
+- 🌱 *Apaixonado por NodeJS* *[In love with NodeJS]*
+- 🔭 *À procura do primeiro estágio* *[Searching for my first job]*
+- 🚀 *Na infinita jornada pela evolução* *[On the infinite journey for evolution]*
 
-## 📝 Estudando...
+## 📝 Estudando... [Studying...]
 <div >
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="60">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="60">   
@@ -15,7 +15,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="80" height="60"/>
 </div>
 
-## 📈 Estatísticas
+## 📈 Estatísticas [Statistics]
 
 <div>
   <a href="https://github.com/Gambinha">
@@ -23,11 +23,11 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Gambinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
  
-## 🛸 Commits
+## 🛸 Commits [Commits]
  
 ![Snake animation](https://github.com/Gambinha/Gambinha/blob/output/github-contribution-grid-snake.svg)
   
-## ⚡ Outras redes
+## ⚡ Redes sociais [Social medias]
   
 <div align="center">
   <a href="https://twitter.com/FernandoGamba19" target="_blank" ><img width="100" height="26" src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
