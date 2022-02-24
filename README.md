@@ -3,7 +3,7 @@
 - 🌍 *Tenho 18 anos e moro no Rio Grande do Sul* *[I`m 18 years old and I live in Brazil]*
 - 📕 *Curso Ciência da Computação na Universidade UniRitter Campus Canoas* *[Studying Computer Science]*
 - 🌱 *Apaixonado por NodeJS* *[In love with NodeJS]*
-- 🔭 *À procura do primeiro estágio* *[Searching for my first job]*
+- 🔭 *À procura do primeiro emprego* *[Searching for my first job]*
 - 🚀 *Na infinita jornada pela evolução* *[On the infinite journey for evolution]*
 
 ## 📝 Estudando... [Studying...]
