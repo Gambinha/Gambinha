@@ -1,9 +1,9 @@
 ## 🧒🏽 Eaií, beleza? Eu me chamo Fernando Gamba [I`m Fernando Gamba]
 
-- 🌍 *Tenho 18 anos e moro no Rio Grande do Sul* *[I`m 18 years old and I live in Brazil]*
-- 📕 *Curso Ciência da Computação na Universidade UniRitter Campus Canoas* *[Studying Computer Science]*
+- 🌍 *Tenho 19 anos e moro no Rio Grande do Sul* *[I`m 18 years old and I live in Brazil]*
+- 📕 *Curso Ciência da Computação na Universidade La Salle Canoas* *[Studying Computer Science]*
 - 🌱 *Apaixonado por NodeJS* *[In love with NodeJS]*
-- 🔭 *À procura do primeiro emprego* *[Searching for my first job]*
+- 🔭 *Trabalhando na Server Software para Varejos - NH* *[Working on Server Software para Varejos - NH]*
 - 🚀 *Na infinita jornada pela evolução* *[On the infinite journey for evolution]*
 
 ## 📝 Estudando... [Studying...]
@@ -13,6 +13,9 @@
  <img title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" height="60">      
  <img title="ReactJS"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="60"> 
  <img title="Socket.io" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="80" height="60"/>
+ <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="60"/>
+ <img title="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="80" height="60"/>
+ <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="60"/>
 </div>
 
 ## 📈 Estatísticas [Statistics]
