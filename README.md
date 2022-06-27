@@ -1,6 +1,6 @@
 ## 🧒🏽 Eaií, beleza? Eu me chamo Fernando Gamba [I`m Fernando Gamba]
 
-- 🌍 *Tenho 19 anos e moro no Rio Grande do Sul* *[I`m 18 years old and I live in Brazil]*
+- 🌍 *Tenho 19 anos e moro no Rio Grande do Sul* *[I`m 19 years old and I live in Brazil]*
 - 📕 *Curso Ciência da Computação na Universidade La Salle Canoas* *[Studying Computer Science]*
 - 🌱 *Apaixonado por NodeJS* *[In love with NodeJS]*
 - 🔭 *Trabalhando na Server Software para Varejos - NH* *[Working on Server Software para Varejos - NH]*
