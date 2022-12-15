@@ -6,7 +6,7 @@
 - 🔭 *Trabalhando na Server Software para Varejos - NH* *[Working on Server Software para Varejos - NH]*
 - 🚀 *Na infinita jornada pela evolução* *[On the infinite journey for evolution]*
 
-## 📝 Estudando... [Studying...]
+## 📝 Conhecimentos... [Knowledges...]
 <div >
  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="60">
  <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="60">   
@@ -16,6 +16,12 @@
  <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="60"/>
  <img title="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="80" height="60"/>
  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="60"/>
+</div>
+
+## 📝 Estudando... [Studying...]
+<div >
+ <img title="Socket.io" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="80" height="60"/>
+ <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="60"/>
 </div>
 
 ## 📈 Estatísticas [Statistics]
