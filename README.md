@@ -3,7 +3,7 @@
 - 🌍 *Tenho 19 anos e moro no Rio Grande do Sul* *[I`m 19 years old and I live in Brazil]*
 - 📕 *Curso Ciência da Computação na Universidade La Salle Canoas* *[Studying Computer Science]*
 - 🌱 *Apaixonado por NodeJS* *[In love with NodeJS]*
-- 🔭 *Trabalhando na Server Software para Varejos - NH* *[Working on Server Software para Varejos - NH]*
+- 🔭 *Trabalhando na Server Software para Varejos - RS* *[Working on Server Software para Varejos - Brazil]*
 - 🚀 *Na infinita jornada pela evolução* *[On the infinite journey for evolution]*
 
 ## 📝 Conhecimentos... [Knowledges...]
