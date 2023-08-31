@@ -1,6 +1,6 @@
 ## 🧒🏽 Eaií, beleza? Eu me chamo Fernando Gamba [I`m Fernando Gamba]
 
-- 🌍 *Tenho 19 anos e moro no Rio Grande do Sul* *[I`m 19 years old and I live in Brazil]*
+- 🌍 *Tenho 20 anos e moro no Rio Grande do Sul* *[I`m 20 years old and I live in Brazil]*
 - 📕 *Curso Ciência da Computação na Universidade La Salle Canoas* *[Studying Computer Science]*
 - 🌱 *Apaixonado por NodeJS* *[In love with NodeJS]*
 - 🔭 *Trabalhando na Server Software para Varejos - RS* *[Working on Server Software para Varejos - Brazil]*
@@ -14,12 +14,17 @@
  <img title="ReactJS"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="60"> 
  <img title="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="80" height="60"/>
  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="60"/>
+ <img title="Socket.io" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="80" height="60"/>
+ <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="60"/>
+ <img title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="80" height="60"/>
+ <img title="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="80" height="60"/>
+ <img title="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="80" height="60"/>
 </div>
 
 ## 📝 Estudando... [Studying...]
 <div >
- <img title="Socket.io" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="80" height="60"/>
- <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="60"/>
+ <img title="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="80" height="60"/>
+ <img title="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="80" height="60"/>
 </div>
 
 ## 📈 Estatísticas [Statistics]
