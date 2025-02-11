@@ -1,9 +1,9 @@
 ## 🧒🏽 Eaií, beleza? Eu me chamo Fernando Gamba [I`m Fernando Gamba]
 
-- 🌍 *Tenho 20 anos e moro no Rio Grande do Sul* *[I`m 20 years old and I live in Brazil]*
-- 📕 *Curso Ciência da Computação na Universidade La Salle Canoas* *[Studying Computer Science]*
+- 🌍 *Tenho 21 anos e moro no Rio Grande do Sul* *[I`m 21 years old and I live in Brazil]*
+- 📕 *Curso Ciência da Computação na Universidade La Salle Canoas* *[Studying Computer Science - Graduating this year]*
 - 🌱 *Apaixonado por NodeJS* *[In love with NodeJS]*
-- 🔭 *Trabalhando na Server Software para Varejos - RS* *[Working on Server Software para Varejos - Brazil]*
+- 🔭 *Trabalhando no Tribunal Regional do Trabalho da 4 Região - RS* *[Working on Regional Labor Court of Brazil]*
 - 🚀 *Na infinita jornada pela evolução* *[On the infinite journey for evolution]*
 
 ## 📝 Conhecimentos... [Knowledges...]
